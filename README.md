@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Seattle Genetics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.seagen.com
+Seagen (formerly Seattle Genetics) is a biotechnology company focused on developing and commercializing antibody-drug conjugate (ADC) therapies for the treatment of cancer. Founded in 1998 and headquartered in Bothell, Washington, Seagen leverages its proprietary technology platform to create targeted therapies that deliver cytotoxic agents directly to tumor cells while sparing healthy tissue. The company’s portfolio includes FDA‑approved products such as Tivdak, Padcev, and Enhertu, and it maintains a robust pipeline of investigational ADCs across multiple oncology indications. Seagen is publicly traded on NASDAQ under the ticker SGEN and is committed to advancing precision oncology through innovative research and strategic collaborations.
+
+**Areas:** Biotechnology · Oncology · ADC · CancerTherapy · Seattle · Seagen
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.seagen.com)
+- [Documentation](https://docs.seagen.com/)
+- [Terms of service](https://www.pfizer.com/terms)
+- [Privacy policy](https://www.pfizer.com/privacy)
+- [GitHub](https://github.com/Seagen)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/seattle-genetics/](https://apis.io/providers/seattle-genetics/).
